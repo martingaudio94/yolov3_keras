@@ -1,0 +1,2 @@
+crop_img = img[96:828, 320:1100]
+img = cv2.imread(path+file)
