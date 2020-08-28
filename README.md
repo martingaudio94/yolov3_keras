@@ -1,3 +1,7 @@
+# acà dejo el link con pesos (modelo para reentrenar)
+## https://drive.google.com/file/d/1OI6FAaYtARtXjn-Q1GzTt5L58ES8XFMc/view?usp=sharing
+
+# lo de abajo ya se hizo , pero si quieren agarrar el algoritmo de 0 pueden volver a hacerlo
 # keras-yolo3
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
