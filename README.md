@@ -9,6 +9,9 @@
 
 ---
 
+### requerimientos OPEN-CV si es windows hay que tener todo actualizado con visualcode, mas los plugins de C++ coding. con version 2017
+### https://pypi.org/project/opencv-python/
+
 ## Quick Start
 
 1. Download YOLOv3 weights from [YOLO website](http://pjreddie.com/darknet/yolo/).
